@@ -1,0 +1,12 @@
+when we select elemet from html or css we will use
+$("the name of selected item").css("", "");
+
+when we sselect class we use
+$(".selected").css("", "");
+
+$("").text() this will shown the text of the selected element
+$("").html()this will shown the html element of the choosen syntax
+$("").attr() this will change the link of the given attribute 
+when we want to change things especially when they are in mass or if we want to change the first item from the group of element we simply (first or forst-of-type);
+
+
